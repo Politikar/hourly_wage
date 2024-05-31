@@ -1,0 +1,125 @@
+h1 {
+    font-family: sans-serif;
+    font-size: 200%;
+    color: #ffffff;
+    background-color: #49a6ee;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 24px;
+    color: #434343;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 90%;
+    color: #333333;
+    margin: 10px 10px 10px 10px;
+}
+
+.result {
+    font-family: sans-serif;
+    font-size: 120%;
+    color: #000000;
+    background-color: #c4ffffb9;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    max-width: 40%;
+    padding: 5px;
+    margin-top: 6px;
+}
+
+ul li {
+    list-style: none;
+}
+
+label {
+    font-family: sans-serif;
+    font-size: 90%;
+    text-align: right;
+    margin-right: 10px;
+    width: 180px;
+    float: left;
+}
+
+body {
+    margin: 1em;
+    font-family: "Hiragino Kaku Gothic Pro", sans-serif;
+    background: 
+    radial-gradient(rgba(255, 242, 124, 0.301) 3px, transparent 4px),
+    radial-gradient(rgba(182, 255, 179, 0.173) 3px, transparent 4px),
+    linear-gradient(rgba(255, 169, 123, 0.139) 3px, transparent 0),
+    linear-gradient(45deg, transparent 74px, transparent 75px, #ff95954f 75px, #a4a4a440 76px, transparent 77px, transparent 109px),
+    linear-gradient(-45deg, transparent 75px, transparent 76px, #eeff6c3e 76px, #ffb1b137 77px, transparent 78px, transparent 109px),
+  #fff;
+    background-size: 109px 109px, 109px 109px,100% 6px, 109px 109px, 109px 109px;
+    background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+ }
+
+ .ZigZag_3D {
+    margin: 0;
+    background: linear-gradient(135deg, #ffae52f0 25%, transparent 25%) -20px 0/ 40px 40px, linear-gradient(225deg, #ff89e5ce 25%, transparent 25%) -20px 0/ 40px 40px, linear-gradient(315deg, #49b9a6c3 25%, transparent 25%) 0px 0/ 40px 40px, linear-gradient(45deg, #ffe8e83b 25%, #b1ffddbd 25%) 0px 0/ 40px 40px;
+  }
+  
+  .margin {
+    text-align: center;
+    width: 100%;
+    height: auto;
+  }
+
+  .sp2 {
+    margin-bottom: 10px;
+  }
+
+  button.btn {
+    font-size: 1rem;
+    font-weight: 700;
+    line-height: 1.3;
+    position: relative;
+    display: inline-block;
+    padding: 1rem 2rem;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-transition: all 0.15s;
+    transition: all 0.15s;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    letter-spacing: 0.1em;
+    color: #212529;
+    border-radius: 0.8rem;
+  }
+  
+  button.btn-b {
+    color: rgb(55, 55, 55);
+    background-color: #e4e4e4a6;
+    border-bottom: 4px solid #838383c2;
+  }
+  
+  button.btn-b:hover {
+    margin-top: 3px;
+    color: rgb(49, 49, 49);
+    background: #6bd0ff6e;
+    border-bottom: 2px solid #636363c2;
+  }
+
+  .red {
+    color: #ff0000;
+    font-weight: bold;
+  }
