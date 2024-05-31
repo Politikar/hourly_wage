@@ -1,6 +1,5 @@
-function roundToDecimalPlace(number, decimalPlaces) {
-  const factor = Math.pow(10, decimalPlaces);
-  var decimalPlaces = 1
+function roundToDecimalPlace(number) {
+  const factor = Math.pow(10, 1);
   var s1 = document.getElementById('s-consumption');
   var scon = Number(s1.value);
   var s2 = document.getElementById('co2-s-coefficient');
