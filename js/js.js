@@ -15,5 +15,5 @@ function sCO2() {
   var seff = Number(s2.value);
   var s_sub = (scon / seff)*0.8;
   var s = Math.round(s_sub, 1);
-  document.getElementById('emission-s').textContent = s.toFixed(2);
+  document.getElementById('co2-emission-s').textContent = s.toFixed(2);
 }
